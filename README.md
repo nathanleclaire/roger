@@ -1,4 +1,4 @@
-<img align="right" width="160px" src="https://raw.githubusercontent.com/namshi/roger/master/bin/images/logo.png" />
+<img align="right" width="160px" src="https://raw.githubusercontent.com/nathanleclaire/roger/master/bin/images/logo.png" />
 
 # Roger
 
